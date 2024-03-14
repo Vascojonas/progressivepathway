@@ -21,7 +21,7 @@ require get_theme_file_path('/header.php');
                         <tr>
                             <td class="blue">Vanue</td>
                             <td>Check in</td>
-                            <td width="100px">08:00-08:30</td>
+                            <td width="115gpx">08:00-08:30</td>
                         </tr>
                         <tr>
                             <td class="blue">Plenary</td>
@@ -71,22 +71,22 @@ require get_theme_file_path('/header.php');
                         <tr>
                             <td class="blue">Breakout groups</td>
                             <td>Flexi Sessions</td>
-                            <td>14:30-15:30</td>
-                        </tr>
-                        <tr>
-                            <td class="blue">Vanue</td>
-                            <td>Break</td>
-                            <td>15:30-15:45</td>
+                            <td>14:30-15:15</td>
                         </tr>
                         <tr>
                             <td class="blue">Breakout groups</td>
                             <td>Flexi Sessions</td>
-                            <td>15:45-16:45</td>
+                            <td>15:20-16:05</td>
                         </tr>
                         <tr>
                             <td class="blue">Plenary</td>
                             <td>Wrap up</td>
-                            <td>16:45-17:15</td>
+                            <td>16:10-16:30</td>
+                        </tr>
+                        <tr>
+                            <td class="blue">Vanue</td>
+                            <td>Coffee Break</td>
+                            <td>16:30-17:00</td>
                         </tr>
 
                     </tbody>

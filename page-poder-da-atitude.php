@@ -48,7 +48,9 @@ require get_theme_file_path('/header.php');
         </div>
 
         <div class="text-right mt-3">
-            <button class="btn-standard-50 btn-white">Inscreva-se</button>
+            <a target="_blank" href="https://doodle.com/meeting/participate/id/bm7vZ1Ae"
+                class="btn-standard-50 btn-white">Inscreva-se
+            </a>
         </div>
     </div>
 
