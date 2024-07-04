@@ -15,12 +15,20 @@ a:hover {
 .content__conteiner-bg {
   width: 100%;
   min-height: 90vh;
-  background: rgb(85, 0, 7);
-  background: linear-gradient(90deg, rgba(85, 0, 7, 1) 0%, rgba(136, 2, 4, 1) 47%);
+  background: rgb(218, 41, 28);
+  background: linear-gradient(90deg, rgb(218, 41, 28) 0%, rgba(136, 2, 4, 1) 47%);
 }
 
 .blue{
   color: #34B6F0;
+}
+
+.primary-color{
+  color: #DA291C;
+}
+
+.primary-color:hover {
+  color: #DA291C;
 }
 
 .bb {
@@ -50,7 +58,7 @@ a:hover {
 
 .btn-light-red:hover {
   color: white;
-  background-color: #550007;
+  background-color: rgb(218, 41, 28);
 }
 
 .btn-white {
@@ -76,7 +84,7 @@ a:hover {
 }
 
 .header > .logo img {
-  width: 50px;
+  width: 90px;
 }
 
 .menu > ul {
@@ -229,7 +237,7 @@ a:hover {
 
 .flow__content-container {
   display: flex;
-  background-color: #550007;
+  background-color: rgb(218, 41, 28);
   margin-bottom: 15px;
 }
 
@@ -259,7 +267,7 @@ a:hover {
 .flexisession__container {
   padding-top: 15px;
   background: rgb(136, 2, 4);
-  background: linear-gradient(0deg, rgba(136, 2, 4, 1) 0%, rgba(85, 0, 7, 1) 52%);
+  background: linear-gradient(0deg,rgba(85, 0, 7, 1)  0%, rgba(136, 2, 4, 1) 52%);
 }
 
 .flexisession__title {

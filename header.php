@@ -19,7 +19,7 @@
 
         <div class="menu">
             <ul>
-                <li><a href="<?=site_url('agenda')?>">Agenda</a></li>
+                <li><a class="primary-color " href="<?=site_url('agenda')?>">Agenda</a></li>
                 <!-- <li>Notas</li> -->
             </ul>
         </div>

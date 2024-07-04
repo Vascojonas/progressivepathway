@@ -5,18 +5,16 @@ require get_theme_file_path('/header.php');
 <div class=" content__conteiner-bg p-0">
     <div class="flexisesseion__details-container">
 
-        <div class="progressive__pathway">
-            <img src="<?= get_theme_file_uri('img/pathway.png')?>" alt="">
-        </div>
 
-        <span class="header-title">COMPORTAMENTOS DE UMA EQUIPA COESA</span>
+        <span class="header-title">Alto desempenho</span>
 
         <div class="content__details">
             <div class="content__left">
                 <span class="header-description">Descrição da Sessão:</span>
 
                 <p>
-                    Bem-vindo à sessão "Comportamentos de uma Equipa Coesa", inspirada no best-seller de Patrick
+                    Bem-vindo à sessão Alto desempenho ou "Comportamentos de uma Equipa Coesa", inspirada no best-seller
+                    de Patrick
                     Lencioni, "As Cinco Disfunções de uma Equipa".
                 </p>
 
@@ -40,9 +38,9 @@ require get_theme_file_path('/header.php');
 
                     <ul>
                         <li>Tipo de Actividade: Auto-Conhecimento e Reflexão</li>
-                        <li>Horários: Sessão 1: 14H30 - 15H30 | Sessão 2: 15H45 – 16H45</li>
-                        <li>Local: Mezanine</li>
-                        <li>Facilitadora: Michela Simão</li>
+                        <li>Horários: Sessão 1: 14H30 - 15H30 | Sessão 2: 15H30 – 16H30</li>
+                        <li>Local: Jardim</li>
+                        <li>Facilitadora: Pedro Mendes</li>
                     </ul>
                 </div>
             </div>
@@ -53,7 +51,8 @@ require get_theme_file_path('/header.php');
         </div>
 
         <div class="text-right mt-3">
-            <a target="_blank" href="https://doodle.com/meeting/participate/id/bk6q5QKa"
+            <a target="_blank"
+                href="https://doodle.com/sign-up-sheet/participate/b27fe3d3-fe25-49af-9cbf-1df815d55bab/select"
                 class="btn-standard-50 btn-white">Inscreva-se
             </a>
         </div>

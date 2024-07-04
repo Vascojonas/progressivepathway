@@ -5,11 +5,7 @@ require get_theme_file_path('/header.php');
 <div class=" content__conteiner-bg p-0">
     <div class="flexisesseion__details-container">
 
-        <div class="progressive__pathway">
-            <img src="<?= get_theme_file_uri('img/pathway.png')?>" alt="">
-        </div>
-
-        <span class="header-title">VULNERABILIDADE COMO MEIO PARA CRIAR CONEXÕES FORTES</span>
+        <span class="header-title">Circulo de Empatia</span>
 
         <div class="content__details">
             <div class="content__left">
@@ -37,20 +33,21 @@ require get_theme_file_path('/header.php');
 
                     <ul>
                         <li>Tipo de Actividade: Interactiva e de Comunicação</li>
-                        <li>Horários: Sessão 1: 14H30 - 15H30 | Sessão 2: 15H45 – 16H45</li>
-                        <li>Local: Sala Mafalala</li>
+                        <li>Horários: Sessão 1: 14H30 - 15H30 | Sessão 2: 15H30 – 16H30</li>
+                        <li>Local: Jardim</li>
                         <li>Facilitadora: Matilde Cardoso</li>
                     </ul>
                 </div>
             </div>
 
             <div class="content__right">
-                <img src="<?= get_theme_file_uri('img/Vulne.png')?>" alt="">
+                <img src="<?= get_theme_file_uri('img/vulnerabilidade.jpg')?>" alt="">
             </div>
         </div>
 
         <div class="text-right mt-3">
-            <a target="_blank" href="https://doodle.com/meeting/participate/id/eVJ3mOoe"
+            <a target="_blank"
+                href="https://doodle.com/sign-up-sheet/participate/f26b55a2-2813-42cd-a34f-7b4ded4b1482/select"
                 class="btn-standard-50 btn-white">Inscreva-se
             </a>
         </div>
