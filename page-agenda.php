@@ -47,24 +47,9 @@ require get_theme_file_path('/header.php');
                         <tr>
                             <td class="blue">Dr. Carino Modan</td>
                             <td>Apresentação da Nova Orgânica</td>
-                            <td class="d-flex align-items-center" rowspan="5">11:00-13:00</td>
+                            <td class="d-flex align-items-center">11:00-13:00</td>
                         </tr>
-                        <tr>
-                            <td class="blue">Nelsa Ramso</td>
-                            <td>Principais Conceitos</td>
-                        </tr>
-                        <tr>
-                            <td class="blue">Júlia Gune</td>
-                            <td>Mapeamento de Pessoas</td>
-                        </tr>
-                        <tr>
-                            <td class="blue">Elton José</td>
-                            <td>Formação</td>
-                        </tr>
-                        <tr>
-                            <td class="blue"></td>
-                            <td>Concurso Interno Lideranças</td>
-                        </tr>
+
                         <tr>
                             <td class="blue">Todos</td>
                             <td>Almoço e inscrição nas Flexi Sessions</td>
