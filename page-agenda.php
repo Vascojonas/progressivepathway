@@ -21,7 +21,7 @@ require get_theme_file_path('/header.php');
 
                         <tr>
                             <td>08:30 - 09:00</td>
-                            <td>WWelcome Coffee com PCE</td>
+                            <td>Welcome Coffee com PCE</td>
                         </tr>
                         <tr>
                             <td>09:00 - 10:00</td>
