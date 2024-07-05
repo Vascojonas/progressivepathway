@@ -20,55 +20,45 @@ require get_theme_file_path('/header.php');
                     <tbody>
 
                         <tr>
-                            <td>08:30-09:00</td>
-                            <td>Chegada dos Participantes | Welcome Coffee</td>
-                            <td class="font-weight-bold">Todos</td>
+                            <td>08:30 - 09:00</td>
+                            <td>WWelcome Coffee com PCE</td>
                         </tr>
                         <tr>
-                            <td>09:00-09:15</td>
-                            <td>Início da Sessão | Apresentação da Agenda</td>
-                            <td class="font-weight-bold">Flow</td>
+                            <td>08:30 - 09:00</td>
+                            <td>Introdução e Enquadramento</td>
                         </tr>
                         <tr>
-                            <td>09:15-10:00</td>
-                            <td>Introdução / Enquadramento</td>
-                            <td class="font-weight-bold">Dr. Carino Modan</td>
+                            <td>10:00 - 11:00</td>
+                            <td>Moza Race</td>
                         </tr>
                         <tr>
-                            <td>10:00-10:45</td>
-                            <td>Dinâmica</td>
-                            <td class="font-weight-bold">Flow</td>
-                        </tr>
-                        <tr>
-                            <td>10:45-11:00</td>
+                            <td>11:00 - 11:15</td>
                             <td>Coffee Break</td>
-                            <td class="font-weight-bold">Todos</td>
                         </tr>
                         <tr>
-                            <td class="d-flex align-items-center">11:00-13:00</td>
-                            <td>Apresentação da Nova Orgânica</td>
-                            <td class="font-weight-bold">Dr. Carino Modan</td>
+                            <td>11:15 - 13:15</td>
+                            <td>Novo Modelo Organizacional</td>
+                        </tr>
+                        <tr>
+                            <td class="d-flex align-items-center">13:15 - 14:15</td>
+                            <td>Almoço</td>
                         </tr>
 
                         <tr>
-                            <td>13:00-14:00</td>
-                            <td>Almoço e inscrição nas Flexi Sessions</td>
-                            <td class="font-weight-bold">Todos</td>
+                            <td>14:15 - 14:45</td>
+                            <td>Q&A</td>
                         </tr>
                         <tr>
                             <td>14:00-14:30</td>
                             <td>Q&A</td>
-                            <td class="font-weight-bold">Todos</td>
                         </tr>
                         <tr>
-                            <td>14:30-16:30</td>
+                            <td>14:45 - 16:25</td>
                             <td>Flexi Sessions</td>
-                            <td class="font-weight-bold">Todos</td>
                         </tr>
                         <tr>
-                            <td>16:30-17:00</td>
+                            <td>16:25 - 16:45</td>
                             <td>Encerramento</td>
-                            <td class="font-weight-bold">Dr. Carino + Flow</td>
                         </tr>
 
                     </tbody>
