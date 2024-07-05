@@ -8,10 +8,9 @@ require get_theme_file_path('/header.php');
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="<?= get_theme_file_uri('/img/flow/Sobre a Flow_page-0002.jpg') ?>"
-                        alt="Second slide">
+                    <img class="d-block w-100" src="<?= get_theme_file_uri('/img/moza-2.png') ?>" alt="Second slide">
                 </div>
-                <div class="carousel-item">
+                <!-- <div class="carousel-item">
                     <img class="d-block w-100" src="<?= get_theme_file_uri('/img/flow/Sobre a Flow_page-0003.jpg') ?>"
                         alt="Second slide">
                 </div>
@@ -22,7 +21,7 @@ require get_theme_file_path('/header.php');
                 <div class="carousel-item">
                     <img class="d-block w-100" src="<?= get_theme_file_uri('/img/flow/Sobre a Flow_page-0005.jpg') ?>"
                         alt="Second slide">
-                </div>
+                </div> -->
 
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -39,7 +38,7 @@ require get_theme_file_path('/header.php');
 
     <div class="flow__content-container mt-3">
         <div class="slido w-50 text-center p-3">
-            <a target="_blank" class="text-white  w-100 h-100" href="https://www.menti.com/">Metimeter</a>
+            <a target="_blank" class="text-white  w-100 h-100" href="https://www.menti.com/">Mentimeter</a>
         </div>
 
         <div class="slido flow__content w-50 text-center text-white p-3">
@@ -104,7 +103,7 @@ require get_theme_file_path('/header.php');
                 </div>
 
                 <div class="bottom__content ">
-                    <span class="">Circulo de Empatia</span>
+                    <span class="">Poder da Vulnerabilidade</span>
 
                     <p>
                         Sessão Interactiva e de Comunicação <br />

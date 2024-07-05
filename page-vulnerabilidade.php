@@ -5,7 +5,7 @@ require get_theme_file_path('/header.php');
 <div class=" content__conteiner-bg p-0">
     <div class="flexisesseion__details-container">
 
-        <span class="header-title">Circulo de Empatia</span>
+        <span class="header-title">Poder da Vulnerabilidade</span>
 
         <div class="content__details">
             <div class="content__left">
