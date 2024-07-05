@@ -24,7 +24,7 @@ require get_theme_file_path('/header.php');
                             <td>WWelcome Coffee com PCE</td>
                         </tr>
                         <tr>
-                            <td>08:30 - 09:00</td>
+                            <td>09:00 - 10:00</td>
                             <td>Introdução e Enquadramento</td>
                         </tr>
                         <tr>
@@ -48,10 +48,7 @@ require get_theme_file_path('/header.php');
                             <td>14:15 - 14:45</td>
                             <td>Q&A</td>
                         </tr>
-                        <tr>
-                            <td>14:00-14:30</td>
-                            <td>Q&A</td>
-                        </tr>
+
                         <tr>
                             <td>14:45 - 16:25</td>
                             <td>Flexi Sessions</td>
