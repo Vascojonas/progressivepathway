@@ -40,7 +40,7 @@ require get_theme_file_path('/header.php');
                         <li>Tipo de Actividade: Auto-Conhecimento e Reflexão</li>
                         <li>Horários: Sessão 1: 14H30 - 15H30 | Sessão 2: 15H30 – 16H30</li>
                         <li>Local: Jardim</li>
-                        <li>Facilitadora: Pedro Mendes</li>
+                        <li>Facilitador: Pedro Mendes</li>
                     </ul>
                 </div>
             </div>

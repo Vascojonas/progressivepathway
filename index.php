@@ -38,17 +38,17 @@ require get_theme_file_path('/header.php');
 
 
     <div class="flow__content-container mt-3">
-        <div class="slido w-50 text-center">
-            <a target="_blank" href="https://app.sli.do/event/r4qH4CKXU5FEumxrzp56W6"><img
-                    src="<?= get_theme_file_uri('img/slido.png') ?>" alt=""></a>
+        <div class="slido w-50 text-center p-3">
+            <a target="_blank" class="text-white  w-100 h-100" href="https://www.menti.com/">Metimeter</a>
         </div>
 
-        <div class="slido flow__content w-50 text-center text-white">
-            <a target="_blank" class="text-white" href="http://estudorh.flowmocambique.com">Estado FLOW</a>
+        <div class="slido flow__content w-50 text-center text-white p-3">
+            <a target="_blank" class="text-white  w-100 h-100" href="http://18.203.245.11/">Estado
+                FLOW</a>
         </div>
 
-        <div class="flow__content w-50 text-center text-white">
-            <a target="_blank" class="text-white" href="http://flowplay.learnit.co.mz/">Dinâmicas</a>
+        <div class="flow__content w-50 text-center p-3">
+            <a target="_blank" class="text-white  w-100 h-100" href="http://flowplay.learnit.co.mz/">Dinâmicas</a>
         </div>
 
     </div>
